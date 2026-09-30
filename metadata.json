@@ -1,0 +1,6 @@
+{
+  "name": "UNIMART - Sàn Trao Đổi Đồ Dùng Sinh Viên ĐH Lạc Hồng (LHU)",
+  "description": "Sàn mua bán, trao đổi, ký gửi và tặng đồ dùng sinh viên Trường Đại học Lạc Hồng (LHU). Nhà sáng tạo và phát triển: Hoàng Thị Phương Trâm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
